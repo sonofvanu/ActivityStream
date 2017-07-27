@@ -1,0 +1,6 @@
+com\stackroute\activitystream\ActivityStreamBackend\Config\DataBaseConfiguration.class
+com\stackroute\activitystream\ActivityStreamBackend\daoimpl\UserDAOImpl.class
+com\stackroute\activitystream\ActivityStreamBackend\dao\UserDAO.class
+com\stackroute\activitystream\ActivityStreamBackend\Model\UserCredentials.class
+com\stackroute\activitystream\ActivityStreamBackend\Model\UserModel.class
+com\stackroute\activitystream\ActivityStreamBackend\App.class

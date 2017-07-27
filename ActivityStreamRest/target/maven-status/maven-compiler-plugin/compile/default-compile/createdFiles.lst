@@ -1,0 +1,4 @@
+com\stackroute\activitystream\ActivityStreamRest\Config\AppInitializer.class
+com\stackroute\activitystream\ActivityStreamRest\controller\DisplayController.class
+com\stackroute\activitystream\ActivityStreamRest\Config\ApplicationConfiguration.class
+com\stackroute\activitystream\ActivityStreamRest\controller\UserController.class
