@@ -5,5 +5,7 @@
 ###The Various Technologies Used are:
 
 >BackEnd:DataBase(MySQL),Hibernate,Spring,Junit,maven
+
 >Middle:Spring MVC,Web Services,Maven
+
 >FronEnd:AngularJs 1.4
