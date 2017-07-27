@@ -29,11 +29,13 @@ public class UserDAOImpl implements UserDAO {
 
 	public boolean saveUser(UserModel user) {
 		try {
+			System.out.println(user.getFName());
 			UserCredentials userCredentials = new UserCredentials();
 			userCredentials.setEmail(user.getEmail());
 			userCredentials.setPassword(user.getFName());
 			sessionFactory.getCurrentSession().save(user);
 			sessionFactory.getCurrentSession().save(userCredentials);
+			System.out.println(userCredentials.getEmail());
 			return true;
 		} catch (Exception e) {
 			return false;
